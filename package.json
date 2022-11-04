@@ -1,0 +1,19 @@
+{
+  "name": "react-port",
+  "version": "1.0.0",
+  "description": "React",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScoBoFoSho/React-Port.git"
+  },
+  "author": "ScoBoFoSho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScoBoFoSho/React-Port/issues"
+  },
+  "homepage": "https://github.com/ScoBoFoSho/React-Port#readme"
+}
